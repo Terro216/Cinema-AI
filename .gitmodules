@@ -1,0 +1,6 @@
+[submodule "Cinema-AI-Front"]
+	path = Cinema-AI-Front
+	url = https://github.com/Terro216/Cinema-AI-Front.git
+[submodule "Cinema-AI-Back"]
+	path = Cinema-AI-Back
+	url = https://github.com/Terro216/Cinema-AI-Back.git
