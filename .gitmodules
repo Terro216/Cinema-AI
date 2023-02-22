@@ -4,3 +4,6 @@
 [submodule "Cinema-AI-Back"]
 	path = Cinema-AI-Back
 	url = https://github.com/Terro216/Cinema-AI-Back.git
+[submodule "Cinema-AI-Flutter"]
+	path = Cinema-AI-Flutter
+	url = https://github.com/Terro216/Cinema-AI-Flutter
