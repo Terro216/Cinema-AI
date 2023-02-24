@@ -7,3 +7,6 @@
 [submodule "Cinema-AI-Flutter"]
 	path = Cinema-AI-Flutter
 	url = https://github.com/Terro216/Cinema-AI-Flutter
+[submodule "AI-showcase"]
+	path = AI-showcase
+	url = https://github.com/vyragosa/AI-showcase
