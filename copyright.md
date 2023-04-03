@@ -11,8 +11,8 @@ Neither does the administration of the site carry out activities related to the 
 In case of any disputable situations we ask you to send us a letter by email, where you should specify the following:
 
 1. Documentary proof of your rights to the copyrighted material:
-    - A scanned document with a stamp, or
-    - email from the official email domain of the copyright holder company, or
+    - A scanned document with a stamp
+    - email from the official email domain of the copyright holder company
     - Other information allowing unequivocally identify you as the right holder of this material.
 
 2. Direct links to the pages of the site which contain data published in violation of copyrights.
