@@ -8,7 +8,7 @@ Neither does the administration of the site carry out activities related to the 
 
 **СinemaAI** resource is always open for cooperation with copyright holders. If your exclusive rights to the copyrights are infringed in any way by using this resource (posting information protected by copyright), the administration is ready to assist you and remove the relevant materials from the site.
 
-In case of any disputable situations we ask you to send us a letter by email, where you should specify the following
+In case of any disputable situations we ask you to send us a letter by email, where you should specify the following:
 
 1. Documentary proof of your rights to the copyrighted material:
     - A scanned document with a stamp, or
